@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is a test application helping us understand the difference between take, takeEvery and takeLatest.
+
+It is served as my training to get familiar in React ecosystem from an online course conducted by one of the best instructors [Yihua Zhang](https://github.com/ZhangMYihua) and his team. Here is the link to the original repository: [https://github.com/ZhangMYihua/redux-saga-take-takelatest-takeevery](https://github.com/ZhangMYihua/redux-saga-take-takelatest-takeevery)
 
 ## Available Scripts
 
